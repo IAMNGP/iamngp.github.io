@@ -336,10 +336,10 @@
 	}
 
 	#header {
-		-moz-animation: header 0s 0s forwards;
-		-webkit-animation: header 0s 0s forwards;
-		-ms-animation: header 0s 0s forwards;
-		animation: header 0s 0s forwards;
+		-moz-animation: header 0.5s 0.5s forwards;
+		-webkit-animation: header 0.5s 0.5s forwards;
+		-ms-animation: header 0.5s 0.5s forwards;
+		animation: header 0.5s 0.5s forwards;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
@@ -441,10 +441,10 @@
 				}
 
 				#header nav li:nth-child(7) {
-					-moz-animation-delay: 4s;
-					-webkit-animation-delay: 4s;
-					-ms-animation-delay: 4s;
-					animation-delay: 4s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(8) {
